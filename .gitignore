@@ -1,0 +1,27 @@
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+.idea/
+
+# macOS and archive metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Local R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# Local environment variables
+.env
+.env.*
+!.env.example

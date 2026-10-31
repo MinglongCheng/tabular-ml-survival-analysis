@@ -1,0 +1,2 @@
+# Exclude generated SHAP HTML files from GitHub language statistics
+outputs/figures/shap/*.html linguist-generated=true

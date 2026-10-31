@@ -1,0 +1,15 @@
+[project]
+name = "tabular-ml-survival-analysis"
+version = "0.1.0"
+requires-python = ">=3.13.2"
+dependencies = [
+    "lifelines>=0.30.3",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.9.1",
+    "scikit-survival==0.28.0",
+    "scipy>=1.18.1",
+    "shap>=0.54.1",
+    "tableone>=0.9.6",
+]
